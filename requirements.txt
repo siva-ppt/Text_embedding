@@ -1,0 +1,6 @@
+mteb
+sentence-transformers
+PyYAML
+matplotlib
+pandas
+psutil
