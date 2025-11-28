@@ -1,0 +1,6 @@
+models:
+  - name: "example-model"
+    path: "example/path"
+tasks:
+  - "Retrieval"
+  - "Classification"
